@@ -1,0 +1,5 @@
+E:\Users\Admin\documents\visual studio 2010\Projects\GetComputerInfo\GetComputerInfo\bin\Release\GetComputerInfo.exe.config
+E:\Users\Admin\documents\visual studio 2010\Projects\GetComputerInfo\GetComputerInfo\bin\Release\GetComputerInfo.exe
+E:\Users\Admin\documents\visual studio 2010\Projects\GetComputerInfo\GetComputerInfo\bin\Release\GetComputerInfo.pdb
+E:\Users\Admin\documents\visual studio 2010\Projects\GetComputerInfo\GetComputerInfo\obj\Release\GetComputerInfo.exe
+E:\Users\Admin\documents\visual studio 2010\Projects\GetComputerInfo\GetComputerInfo\obj\Release\GetComputerInfo.pdb
